@@ -29,7 +29,7 @@ const Home: NextPage = () => {
 
           <a href="https://vessel.web.client.foundry360.io/" className={styles.card}>
             <h2>Vessel Monitoring &rarr;</h2>
-            <p>Let's see how our monitoring system of vessels via powerful analytic platform</p>
+            <p>Let&apos;s see how our monitoring system of vessels via powerful analytic platform</p>
           </a>
 
           <a
